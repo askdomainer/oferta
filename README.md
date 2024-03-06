@@ -26,6 +26,7 @@ Oferta dopasowana do małych firm w Polsce rozwiązujących [100 największych p
   + subskrypcja na 5h pomocy w ciągu roku
  
 + [ >> Umów spotkanie](http://termin.askDomainer.com)
++ [ >> Zapytanie](http://contact.askDomainer.com)
 + [ >> Oferta](http://order.askDomainer.com)
 + [ >> Opłata](http://pay.askDomainer.com)
   
