@@ -20,10 +20,14 @@ Dlatego oferuję pomoc, ofertę usług, która odpowiada na 100 najbardziej pal�
 💼 **Dla Małych i Średnich Przedsiębiorstw**
 
 Oferta dopasowana do małych firm w Polsce rozwiązujących [100 największych problemów w zarządzaniu domenami](http://100.askdomainer.com) - od rejestracji, przez ochronę prywatności, aż po wsparcie techniczne.
-+ Ofertę jednorazowej pomocy w konsultacji online: 50PLN/kwadrans
-+ Ofertę długotrwałej współpracy na rok z góry: 500PLN/rok
-
++ Jednorazowa pomocy w konsultacji online: 50PLN/kwadrans
++ Długotrwałała współpraca : 500PLN/rok
+  + wsparcie jako pogotowie domenowe
+  + subskrypcja na 5h pomocy w ciągu roku
+ 
 + [ >> Umów spotkanie](http://termin.askDomainer.com)
++ [ >> Oferta](http://order.askDomainer.com)
++ [ >> Opłata](http://pay.askDomainer.com)
   
 
 ✅ **Skontaktuj się z nami już dziś**, by dowiedzieć się, jak możemy Ci pomóc rozwinąć Twoją obecność online i ochronić Twój cyfrowy majątek.
