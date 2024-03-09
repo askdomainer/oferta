@@ -1,4 +1,6 @@
 
+# [askDomainer](http://www.askdomainer.com)
+
 ## Why Us?
 
 Our team comprises seasoned domainers and SaaS specialists dedicated to propelling businesses into their next growth phase. With a keen eye for digital real estate and a knack for developing user-centric SaaS applications, we've turned the aspirations of numerous SMBs into tangible successes.
@@ -35,6 +37,17 @@ An offer tailored to small companies in Poland solving [100 biggest problems in 
    + support as a domain emergency service
    + subscription for 5 hours of assistance per year
 
+### Offer
+ 
+[ >> Appointment](http://termin.askDomainer.com)
+
+[ >> Query](http://contact.askDomainer.com)
+
+[ >> Order](http://order.askDomainer.com)
+
+[ >> Payment](http://pay.askDomainer.com)
+
+
      
 ## Let's Collaborate
 
@@ -61,23 +74,13 @@ I make it easier to tailor the solution to your needs, please visit:
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 
 
-### Raporty:
+### Reports:
 
 + [Domain market report, 2024.digitname.com - How has the domain market changed in the last decade? How will the market change by 2030?](https://2024.digitname.com/)
 + [The labor market in the EU from the perspective of a Pole - Report 2024 - How has the labor market changed in the last decade? How will the market change by 2030?](https://2024.teleworking.info/)
 + [Object detection in vision systems - Report 2024 - How has the market for vision systems in industrial applications changed in the last decade? How will the market change by 2030?](https://2024.teleoperator.info/)
 
-### Oferta
-
- 
-[ >> Appointment](http://termin.askDomainer.com)
-
-[ >> Query](http://contact.askDomainer.com)
-
-[ >> Order](http://order.askDomainer.com)
-
-[ >> Payment](http://pay.askDomainer.com)
-
 
 ---
-+ [edit](https://github.com/askdomainer/offer/new/main?filename=README.md)
+
++ [edit](https://github.com/askdomainer/offer/edit/main/README.md)
